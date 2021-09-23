@@ -1,7 +1,8 @@
 # robit3
 [video](https://streamable.com/5gea8l)
 [flæðirit](https://i.imgur.com/8DKKIzz.png)
-[kóði](https://pastebin.com/RKTZsqWC)
+
+[alvöru kóði! ](https://pastebin.com/RKTZsqWC)
 
 ```c++
 #pragma config(Sensor, in6,    lightSensor,         sensorReflection)
